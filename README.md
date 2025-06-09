@@ -29,5 +29,5 @@ A terminal-based Typing Test program written in Python to help users improve the
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/typing-test.git
-   cd typing-test
+   git clone https://github.com/EriThinMyat/Typing-Test-with-Python.git
+   cd Typing-Test-with-Python
